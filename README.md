@@ -76,6 +76,3 @@ print(createHello())
 
 3. I started coding as a side hobby, but it slowly started growing on me somehow.
 
-School Autopsy Link:
-[Report](https://cdn.discordapp.com/attachments/378034201443696645/1451467697412902943/CIS27A_Course_Project_Fall_2025.docx?ex=69464822&is=6944f6a2&hm=d3882841c6d6a3cdb60e6d5e15b909598ee7c798e51ee7571002bef595234d80&)
-
