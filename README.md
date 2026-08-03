@@ -71,7 +71,7 @@ print(createHello())
 
 ## 🎨 3 Small  Fun Facts
 
-1. I BARELY use github, but slowly starting to add small public stuff to it.
+1. I've started to use github more frequently since around ~3 months ago
 
 2. I'm really fast in learning languages, but I always make sure it's bug proof. Typescript is perfect for me!!
 
