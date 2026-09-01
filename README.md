@@ -1,5 +1,3 @@
-# This is Freddie from CIS30A. 
-
 # Hello Onlookers!
 
 I'm bliz, a fullstack scripter based in America. If I've worked for you, great to know you dropped in.
