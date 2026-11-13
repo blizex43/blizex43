@@ -41,7 +41,8 @@ I'm an independent developer based in the US, building software since 2019. I en
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blizex43&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=blizex43&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
+
 
 <sub>This card reflects public repository language usage, not my personal language ranking. It also includes compiled code as well.</sub>
 
